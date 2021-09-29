@@ -7,8 +7,9 @@ Make this project open source might be cool, but since I use many 3rd party asse
 [Pocket H=N Objkt Page](https://www.hicetnunc.xyz/objkt/154604)
 
 # Download Links
-[Pocket H=N v1.0 Windows](https://github.com/newyellow/pocket-hicetnunc/releases/download/1.0/Pocket.H.N.Windows.v1.0.zip).  
-[Pocket H=N v1.0 OSX](https://github.com/newyellow/pocket-hicetnunc/releases/download/1.0/Pocket.H.N.OSX.v1.0.zip)
+For Windows, OSX, Linux builds, please refer to [release page](https://github.com/newyellow/pocket-hicetnunc/releases/)
+Android version from [Google play](https://play.google.com/store/apps/details?id=com.newyellow.pockethicetnunc&hl=en_US&gl=US)
+
 # About Pocket H=N
 Pocket H=N is a project trying to improve trading experience on [Hic et nunc](https://hicetnunc.xyz).
 
